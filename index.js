@@ -29,7 +29,4 @@ var funkyFunction = function() {
 // NOTE: you only need to modify the code below this line.
 var theFunk = funkyFunction();
 
-console.log(myAnimal());
-console.log(yourAnimal());
-console.log(add2(3));
-console.log(theFunk());
+theFunk();
